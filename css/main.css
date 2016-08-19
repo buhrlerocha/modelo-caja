@@ -1,0 +1,20 @@
+p {
+	width: 800px;
+	border: 1px dashed black;
+	background: white;
+	margin:40px 90px;
+	text-align: center;
+	padding: 10px;
+}
+.rosa {
+width:950px;
+border-width: 10px 20px;
+border-color:  #4E0954;
+border-style: solid;
+margin: 50px;
+background: #EF73C6;
+height: 150px;
+}
+/** 
+Escribir el CSS necesario aqui
+*/
